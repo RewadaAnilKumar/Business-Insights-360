@@ -1,6 +1,6 @@
-# Business-Insights-360
+# Business-Insights-360 
 ## Project Overview
-#### AtliQ Hardware, a growing electronics company, faced challenges in Latin America. They needed quick, smart data-based decisions. To help, I created an automated Power BI dashboard for their Finance, Sales, Marketing, and Supply Chain teams, enabling better data analysis and decision-making.
+#### AtliQ Hardware, a growing electronics company, faced challenges in Latin America. They needed quick, smart data-based decisions. To help, I created an Power BI dashboard for their Finance, Sales, Marketing, and Supply Chain teams, enabling better data analysis and decision-making.
 ## Project Execution
 #### This project involves several steps:
 🔸Connecting MySQL database to Power BI.
@@ -89,4 +89,12 @@
 🔸 Year to Go (YTG)
 
 🔸 Year to Date (YTD)
+### Soft Skills 
+#### 
+1. Conducting a stakeholder mapping analysis is crucial for effective communication, managing feedback, and overall stakeholder management.
+
+2. Expertise in sales, finance, marketing, and supply chain is essential for robust business and domain knowledge.
+### Acknowledgments
+####
+Special appreciation goes to our mentors, Hemanand Vadivel and Dhaval Patel. This project was a component of the Power BI course provided by CodeBasis.
 
