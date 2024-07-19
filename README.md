@@ -96,5 +96,5 @@
 2. Expertise in sales, finance, marketing, and supply chain is essential for robust business and domain knowledge.
 ### Acknowledgments
 ####
-Special appreciation goes to our mentors, Hemanand Vadivel and Dhaval Patel. This project was a component of the Power BI course provided by CodeBasis.
+Special appreciation goes to our mentors, Hemanand Vadivel and Dhaval Patel. This project was a part of the Power BI course offered by CodeBasics.
 
